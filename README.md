@@ -4,7 +4,7 @@ reach In this exercise, it is assumed that the start and end points do not chang
 
 
   <br />
-  # star if you like it ✨
+  star if you like it ✨
   <br />
 
 
