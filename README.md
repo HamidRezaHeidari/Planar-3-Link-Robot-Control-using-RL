@@ -6,11 +6,16 @@ reach In this exercise, it is assumed that the start and end points do not chang
   <br />
   star if you like it ✨
   <br />
+  <br />
+  <br />
+  <br />
 
 
 <p align="center">
   <img title="Fig1" height="200" src="images/1.gif">
   <br />
+    <br />
+  <img title="Fig2" height="410" src="images/2.png">
 </p>
 
 
