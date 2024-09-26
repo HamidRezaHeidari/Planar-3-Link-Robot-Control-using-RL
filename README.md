@@ -9,7 +9,7 @@ reach In this exercise, it is assumed that the start and end points do not chang
 
 
 <p align="center">
-  <img title="Fig1" height="410" src="images/1.gif">
+  <img title="Fig1" height="200" src="images/1.gif">
   <br />
 </p>
 
