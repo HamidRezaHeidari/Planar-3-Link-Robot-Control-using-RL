@@ -18,7 +18,7 @@ Reinforcement Learning (RL) is a type of machine learning where an agent learns 
 ✨Star if you find it useful
   <br />
 <p align="center">
-  <img title="Fig1" height="400" src="images/1.gif">
+  <img title="Fig1" height="800" src="images/1.gif">
   <br />
 </p>
 
