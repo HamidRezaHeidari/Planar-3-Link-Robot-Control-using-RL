@@ -5,6 +5,7 @@ In this project, we are going to control it by simulating a 3-degree-of-freedom 
 ---
 
 ## 💡Features
+
 -Fully simulated 3-link planar manipulator
 -Reinforcement learning-based control using Stable Baselines3 PPO
 -Custom reward function balancing distance to target, joint movement penalties, and action magnitude
