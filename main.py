@@ -2,7 +2,6 @@
 Three-Link Manipulator Environment with Reinforcement Learning (PPO)
 
 Author: Hamid Reza Heidari
-HW2 - AI in Robotics
 
 Description:
 This code implements a custom OpenAI Gym environment for a 3-link planar manipulator.
